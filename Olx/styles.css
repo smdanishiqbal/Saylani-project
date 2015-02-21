@@ -1,0 +1,200 @@
+
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 100;
+    src: local("Lato Hairline"), local("Lato-Hairline"), url("http://fonts.gstatic.com/s/lato/v11/GtRkRNTnri0g82CjKnEB0Q.woff2") format("woff2"), url("http://fonts.gstatic.com/s/lato/v11/boeCNmOCCh-EWFLSfVffDg.woff") format("woff");
+}
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 300;
+    src: local("Lato Light"), local("Lato-Light"), url("http://fonts.gstatic.com/s/lato/v11/EsvMC5un3kjyUhB9ZEPPwg.woff2") format("woff2"), url("http://fonts.gstatic.com/s/lato/v11/KT3KS9Aol4WfR6Vas8kNcg.woff") format("woff");
+}
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Lato Regular"), local("Lato-Regular"), url("http://fonts.gstatic.com/s/lato/v11/1YwB1sO8YE1Lyjf12WNiUA.woff2") format("woff2"), url("http://fonts.gstatic.com/s/lato/v11/9k-RPmcnxYEPm8CNFsH2gg.woff") format("woff");
+}
+@font-face {
+    font-family: "Lato";
+    font-style: italic;
+    font-weight: 900;
+    src: local("Lato Black Italic"), local("Lato-BlackItalic"), url("http://fonts.gstatic.com/s/lato/v11/VNUH7ZAcagYBWsAiBBCEY1tXRa8TVwTICgirnJhmVJw.woff2") format("woff2"), url("http://fonts.gstatic.com/s/lato/v11/VNUH7ZAcagYBWsAiBBCEYz8E0i7KZn-EPnyo3HZu7kw.woff") format("woff");
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+#main-container {
+    margin: 0 auto;
+    padding: 0;
+    width: 1000px;
+}
+#header {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 1000px;
+}
+.navigation {
+    float: right;
+    margin: 55px 46px 0 0;
+    padding: 0;
+}
+.logo {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.logo img {
+    float: left;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    width: 110px;
+}
+.navigation ul {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.navigation ul li {
+    float: left;
+    list-style: outside none none;
+    margin: 0 0 0 41px;
+    padding: 0;
+}
+.navigation ul li a {
+    float: left;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.Second-navigation {
+    background: none repeat scroll 0 0 #47ccff;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 1000px;
+}
+.Second-navigation ul {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.Second-navigation ul li {
+    float: left;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.Second-navigation ul li input {
+    float: left;
+    list-style: outside none none;
+    margin: 8px 0 8px 55px;
+    padding: 9px 66px;
+}
+.body-container {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 629px;
+}
+.categories {
+    display: inline-block;
+    float: left;
+    list-style: outside none none;
+    margin: 0;
+    text-align: center;
+    vertical-align: top;
+    width: 136px;
+}
+.categories img {
+    height: 70px;
+    width: 70px;
+}
+.body-container ul {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.body-container ul li {
+    float: left;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.body-container ul li a {
+    color: black;
+    float: left;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.caption {
+    float: left;
+    height: 44px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0 50px 31px 39px;
+}
+.ad {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.ad img {
+    float: left;
+    margin: 54px 0 0;
+    padding: 0;
+    position: absolute;
+}
+.motive {
+    float: left;
+    font-size: 26px;
+    position: absolute;
+    top: 62px;
+}
+.login-container {
+    float: left;
+    margin: 40px 226px;
+    padding: 0;
+}
+.login-fields {
+    border: 1px solid;
+    margin: 0;
+    padding: 84px 77px;
+}
+.login-fields ul {
+    margin: 0;
+    padding: 0;
+}
+.login-fields ul li {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0 34px;
+}
+.login-fields ul li input {
+    list-style: outside none none;
+    margin: 0 16px 16px;
+    padding: 10px 33px;
+}
+.banner{
+    margin: 0;
+    padding: 0;
+    float: left;
+
+}
+.banner img{
+    margin: 0;
+    padding: 0;
+    float: left;
+
+}
